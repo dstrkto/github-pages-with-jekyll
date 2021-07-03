@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Aefre"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Testing building a simple blog with GitHub.
